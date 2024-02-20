@@ -1,0 +1,6 @@
+-sname erldns_full
+
+-setcookie erldns_full_cookie
+
++K true
++A30
